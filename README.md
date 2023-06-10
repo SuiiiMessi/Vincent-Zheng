@@ -5,7 +5,7 @@
     "cipherparams" : {
       "iv" : "c840b39319e18a31c625690d5036ffd8"
     },
-    "kdf" : "scrypt",
+    "kdf" : "scrypt"
     "kdfparams" : {
       "r" : 8,
       "p" : 4,
