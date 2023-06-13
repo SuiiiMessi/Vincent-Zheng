@@ -57,6 +57,7 @@
       "address" : "bitcoincash:qztr5yswlhjzgrm00le6s62c2cxfy0vvggmvxhaj0m"
     },
     {
+
       "extendedPublicKey" : "zpub6s7XM5H6qiiqktD5LdxjrG8JgdZDgfJPT38YvdoSRoVUNUKwQHNSg9k5b4MPzcVoRDRmGt8r7ucc8DZuRGuZD6kRAHJG9zVW1NnG9oSZD3d",
       "publicKey" : "02ddc9cc68e08c9713d9aefda2ad1cff86482c7c801facc4e40d0d4fe8d11b84ee",
       "coin" : 2,
